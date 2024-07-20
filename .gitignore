@@ -1,0 +1,14 @@
+build/
+/.cproject
+/.project
+/.settings/
+/.vscode
+.idea
+cmake-build-debug*
+
+build
+CMakeFiles
+tests*
+_deps
+librhsp.dylib
+lib/
