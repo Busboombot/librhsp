@@ -9,7 +9,7 @@ RhspSerial* RhspEnvironment::serial;
 
 int main(int argc, char** argv)
 {
-    RhspConfig::serialPath = "/dev/tty.usbserial-DQ3MXDGH"; //"/dev/ttyUSB0";
+    RhspConfig::serialPath = "/dev/ttyUSB0";
     for (int i = 0; i < argc; i++)
     {
         if (strcmp(argv[i], "--serial") == 0 && i + 1 < argc)

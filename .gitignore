@@ -11,4 +11,5 @@ CMakeFiles
 tests*
 _deps
 librhsp.dylib
+*.so
 lib/

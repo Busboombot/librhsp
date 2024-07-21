@@ -5,6 +5,8 @@
 #include "rhsp/rhsp.h"
 #include "utils.h"
 #include "rhsp/time.h"
+#include <thread>
+#include <chrono>
 
 RHSP_TEST(Motor, Enable, {
     WITH_HUB
@@ -582,3 +584,37 @@ RHSP_TEST(Motor, GetPidfCoefficientsInvalidChannel, {
 
     EXPECT_EQ(result, -51);
 })
+
+
+RHSP_TEST(Motor, RunMotorExample, {
+    WITH_HUB
+    uint8_t nackCode;
+    WITH_MOTOR_CHANNEL
+    RHSP_CHECK(rhsp_setMotorChannelMode, motorChannel, MOTOR_MODE_OPEN_LOOP, 0)
+
+    double values[] = {-1.0, -0.5, 0.0, 0.6, 1.0};
+
+    rhsp_setMotorChannelMode(hub, 0, MOTOR_MODE_OPEN_LOOP, 1, &nackCode);
+    rhsp_setMotorChannelEnable(hub,0,1,&nackCode);
+
+
+    for (double value: values)
+    {
+        std::cout << "Testing " << value << std::endl;
+
+        RHSP_CHECK(rhsp_setMotorConstantPower, motorChannel, value)
+        rhsp_setMotorConstantPower(hub, 0, value, &nackCode);
+
+        double power = 0.0;
+        RHSP_CHECK(rhsp_getMotorConstantPower, motorChannel, &power)
+
+        double diff = abs(power - value);
+        EXPECT_LT(diff, 0.001);
+
+        std::this_thread::sleep_for(std::chrono::seconds(1));
+        
+    }
+
+    rhsp_setMotorConstantPower(hub, motorChannel, 0.0, &nackCode);
+})
+
