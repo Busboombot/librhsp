@@ -10,7 +10,7 @@ build
 CMakeFiles
 tests*
 _deps
-librhsp.dylib
+*.dylib
 *.so
 lib/
 CMakeCache.txt
