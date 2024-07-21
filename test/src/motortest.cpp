@@ -597,7 +597,6 @@ RHSP_TEST(Motor, RunMotorExample, {
     rhsp_setMotorChannelMode(hub, 0, MOTOR_MODE_OPEN_LOOP, 1, &nackCode);
     rhsp_setMotorChannelEnable(hub,0,1,&nackCode);
 
-
     for (double value: values)
     {
         std::cout << "Testing " << value << std::endl;

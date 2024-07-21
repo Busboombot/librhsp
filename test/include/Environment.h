@@ -31,6 +31,8 @@ public:
     static void initializeHub(const char* serialPath)
     {
 
+        std::cout << "Serial path: " << serialPath << std::endl;
+        
         if(!serial) {
             serial = new RhspSerial();
             rhsp_serialInit(serial);
@@ -38,7 +40,7 @@ public:
             rhsp_serialOpen(serial, serialPath, 460800, 8, RHSP_SERIAL_PARITY_NONE, 1, RHSP_SERIAL_FLOW_CONTROL_NONE);
         }
 
-        std::cout << "Serial path: " << serialPath << std::endl;
+        
 
         RhspDiscoveredAddresses addresses;
         memset(&addresses, 0, sizeof(RhspDiscoveredAddresses));

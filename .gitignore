@@ -13,3 +13,4 @@ _deps
 librhsp.dylib
 *.so
 lib/
+CMakeCache.txt
