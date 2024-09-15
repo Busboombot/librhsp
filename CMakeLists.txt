@@ -61,8 +61,11 @@ set(LIB_SOURCES
         src/packet.c
 )
 
+set(APPLE TRUE)
+
 if(NOT CMAKE_CROSSCOMPILING)
     if(APPLE)
+    
         list(APPEND LIB_SOURCES
                 src/arch/mac/time.c
                 src/arch/mac/serial.c

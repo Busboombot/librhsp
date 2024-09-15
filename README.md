@@ -1,5 +1,8 @@
 # C library for REV Hub Serial Protocol
 
+20240720 ESB, I'm working on the RunMotorExample in test/motortest.cpp
+
+
 # Building with CMake
 
 For all platforms, create a `build` folder at the top level if one does not exist, and `cd` into it.

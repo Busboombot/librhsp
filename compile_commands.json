@@ -1,230 +1,230 @@
 [
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc -Drhsp_EXPORTS -I/home/eric/proj/librhsp/include -O3 -DNDEBUG -std=gnu11 -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/rhsp.c.o -c /home/eric/proj/librhsp/src/rhsp.c",
-  "file": "/home/eric/proj/librhsp/src/rhsp.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -Drhsp_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/rhsp.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/rhsp.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/rhsp.c",
   "output": "CMakeFiles/rhsp.dir/src/rhsp.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc -Drhsp_EXPORTS -I/home/eric/proj/librhsp/include -O3 -DNDEBUG -std=gnu11 -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/deviceControl.c.o -c /home/eric/proj/librhsp/src/deviceControl.c",
-  "file": "/home/eric/proj/librhsp/src/deviceControl.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -Drhsp_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/deviceControl.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/deviceControl.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/deviceControl.c",
   "output": "CMakeFiles/rhsp.dir/src/deviceControl.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc -Drhsp_EXPORTS -I/home/eric/proj/librhsp/include -O3 -DNDEBUG -std=gnu11 -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/i2c.c.o -c /home/eric/proj/librhsp/src/i2c.c",
-  "file": "/home/eric/proj/librhsp/src/i2c.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -Drhsp_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/i2c.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/i2c.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/i2c.c",
   "output": "CMakeFiles/rhsp.dir/src/i2c.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc -Drhsp_EXPORTS -I/home/eric/proj/librhsp/include -O3 -DNDEBUG -std=gnu11 -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/dio.c.o -c /home/eric/proj/librhsp/src/dio.c",
-  "file": "/home/eric/proj/librhsp/src/dio.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -Drhsp_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/dio.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/dio.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/dio.c",
   "output": "CMakeFiles/rhsp.dir/src/dio.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc -Drhsp_EXPORTS -I/home/eric/proj/librhsp/include -O3 -DNDEBUG -std=gnu11 -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/motor.c.o -c /home/eric/proj/librhsp/src/motor.c",
-  "file": "/home/eric/proj/librhsp/src/motor.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -Drhsp_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/motor.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/motor.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/motor.c",
   "output": "CMakeFiles/rhsp.dir/src/motor.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc -Drhsp_EXPORTS -I/home/eric/proj/librhsp/include -O3 -DNDEBUG -std=gnu11 -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/servo.c.o -c /home/eric/proj/librhsp/src/servo.c",
-  "file": "/home/eric/proj/librhsp/src/servo.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -Drhsp_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/servo.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/servo.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/servo.c",
   "output": "CMakeFiles/rhsp.dir/src/servo.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc -Drhsp_EXPORTS -I/home/eric/proj/librhsp/include -O3 -DNDEBUG -std=gnu11 -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/module.c.o -c /home/eric/proj/librhsp/src/module.c",
-  "file": "/home/eric/proj/librhsp/src/module.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -Drhsp_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/module.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/module.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/module.c",
   "output": "CMakeFiles/rhsp.dir/src/module.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc -Drhsp_EXPORTS -I/home/eric/proj/librhsp/include -O3 -DNDEBUG -std=gnu11 -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/command.c.o -c /home/eric/proj/librhsp/src/command.c",
-  "file": "/home/eric/proj/librhsp/src/command.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -Drhsp_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/command.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/command.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/command.c",
   "output": "CMakeFiles/rhsp.dir/src/command.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc -Drhsp_EXPORTS -I/home/eric/proj/librhsp/include -O3 -DNDEBUG -std=gnu11 -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/revhub.c.o -c /home/eric/proj/librhsp/src/revhub.c",
-  "file": "/home/eric/proj/librhsp/src/revhub.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -Drhsp_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/revhub.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/revhub.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/revhub.c",
   "output": "CMakeFiles/rhsp.dir/src/revhub.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc -Drhsp_EXPORTS -I/home/eric/proj/librhsp/include -O3 -DNDEBUG -std=gnu11 -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/packet.c.o -c /home/eric/proj/librhsp/src/packet.c",
-  "file": "/home/eric/proj/librhsp/src/packet.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -Drhsp_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/packet.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/packet.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/packet.c",
   "output": "CMakeFiles/rhsp.dir/src/packet.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc -Drhsp_EXPORTS -I/home/eric/proj/librhsp/include -O3 -DNDEBUG -std=gnu11 -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/arch/linux/time.c.o -c /home/eric/proj/librhsp/src/arch/linux/time.c",
-  "file": "/home/eric/proj/librhsp/src/arch/linux/time.c",
-  "output": "CMakeFiles/rhsp.dir/src/arch/linux/time.c.o"
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -Drhsp_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/arch/mac/time.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/arch/mac/time.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/arch/mac/time.c",
+  "output": "CMakeFiles/rhsp.dir/src/arch/mac/time.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc -Drhsp_EXPORTS -I/home/eric/proj/librhsp/include -O3 -DNDEBUG -std=gnu11 -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/arch/linux/serial.c.o -c /home/eric/proj/librhsp/src/arch/linux/serial.c",
-  "file": "/home/eric/proj/librhsp/src/arch/linux/serial.c",
-  "output": "CMakeFiles/rhsp.dir/src/arch/linux/serial.c.o"
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -Drhsp_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC -Wall -pedantic -O2 -o CMakeFiles/rhsp.dir/src/arch/mac/serial.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/arch/mac/serial.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/arch/mac/serial.c",
+  "output": "CMakeFiles/rhsp.dir/src/arch/mac/serial.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/rhsp.c.o -c /home/eric/proj/librhsp/src/rhsp.c",
-  "file": "/home/eric/proj/librhsp/src/rhsp.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/rhsp.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/rhsp.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/rhsp.c",
   "output": "CMakeFiles/tests.dir/src/rhsp.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/deviceControl.c.o -c /home/eric/proj/librhsp/src/deviceControl.c",
-  "file": "/home/eric/proj/librhsp/src/deviceControl.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/deviceControl.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/deviceControl.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/deviceControl.c",
   "output": "CMakeFiles/tests.dir/src/deviceControl.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/i2c.c.o -c /home/eric/proj/librhsp/src/i2c.c",
-  "file": "/home/eric/proj/librhsp/src/i2c.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/i2c.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/i2c.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/i2c.c",
   "output": "CMakeFiles/tests.dir/src/i2c.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/dio.c.o -c /home/eric/proj/librhsp/src/dio.c",
-  "file": "/home/eric/proj/librhsp/src/dio.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/dio.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/dio.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/dio.c",
   "output": "CMakeFiles/tests.dir/src/dio.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/motor.c.o -c /home/eric/proj/librhsp/src/motor.c",
-  "file": "/home/eric/proj/librhsp/src/motor.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/motor.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/motor.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/motor.c",
   "output": "CMakeFiles/tests.dir/src/motor.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/servo.c.o -c /home/eric/proj/librhsp/src/servo.c",
-  "file": "/home/eric/proj/librhsp/src/servo.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/servo.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/servo.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/servo.c",
   "output": "CMakeFiles/tests.dir/src/servo.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/module.c.o -c /home/eric/proj/librhsp/src/module.c",
-  "file": "/home/eric/proj/librhsp/src/module.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/module.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/module.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/module.c",
   "output": "CMakeFiles/tests.dir/src/module.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/command.c.o -c /home/eric/proj/librhsp/src/command.c",
-  "file": "/home/eric/proj/librhsp/src/command.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/command.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/command.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/command.c",
   "output": "CMakeFiles/tests.dir/src/command.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/revhub.c.o -c /home/eric/proj/librhsp/src/revhub.c",
-  "file": "/home/eric/proj/librhsp/src/revhub.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/revhub.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/revhub.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/revhub.c",
   "output": "CMakeFiles/tests.dir/src/revhub.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/packet.c.o -c /home/eric/proj/librhsp/src/packet.c",
-  "file": "/home/eric/proj/librhsp/src/packet.c",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/packet.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/packet.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/packet.c",
   "output": "CMakeFiles/tests.dir/src/packet.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/arch/linux/time.c.o -c /home/eric/proj/librhsp/src/arch/linux/time.c",
-  "file": "/home/eric/proj/librhsp/src/arch/linux/time.c",
-  "output": "CMakeFiles/tests.dir/src/arch/linux/time.c.o"
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/arch/mac/time.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/arch/mac/time.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/arch/mac/time.c",
+  "output": "CMakeFiles/tests.dir/src/arch/mac/time.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/cc  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/arch/linux/serial.c.o -c /home/eric/proj/librhsp/src/arch/linux/serial.c",
-  "file": "/home/eric/proj/librhsp/src/arch/linux/serial.c",
-  "output": "CMakeFiles/tests.dir/src/arch/linux/serial.c.o"
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/src/arch/mac/serial.c.o -c /Volumes/Proj/proj/RobotProjects/librhsp/src/arch/mac/serial.c",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/src/arch/mac/serial.c",
+  "output": "CMakeFiles/tests.dir/src/arch/mac/serial.c.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/c++  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/discoverytest.cpp.o -c /home/eric/proj/librhsp/test/src/discoverytest.cpp",
-  "file": "/home/eric/proj/librhsp/test/src/discoverytest.cpp",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/discoverytest.cpp.o -c /Volumes/Proj/proj/RobotProjects/librhsp/test/src/discoverytest.cpp",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/test/src/discoverytest.cpp",
   "output": "CMakeFiles/tests.dir/test/src/discoverytest.cpp.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/c++  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/Environment.cpp.o -c /home/eric/proj/librhsp/test/src/Environment.cpp",
-  "file": "/home/eric/proj/librhsp/test/src/Environment.cpp",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/Environment.cpp.o -c /Volumes/Proj/proj/RobotProjects/librhsp/test/src/Environment.cpp",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/test/src/Environment.cpp",
   "output": "CMakeFiles/tests.dir/test/src/Environment.cpp.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/c++  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/RhspConfig.cpp.o -c /home/eric/proj/librhsp/test/src/RhspConfig.cpp",
-  "file": "/home/eric/proj/librhsp/test/src/RhspConfig.cpp",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/RhspConfig.cpp.o -c /Volumes/Proj/proj/RobotProjects/librhsp/test/src/RhspConfig.cpp",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/test/src/RhspConfig.cpp",
   "output": "CMakeFiles/tests.dir/test/src/RhspConfig.cpp.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/c++  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/motortest.cpp.o -c /home/eric/proj/librhsp/test/src/motortest.cpp",
-  "file": "/home/eric/proj/librhsp/test/src/motortest.cpp",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/motortest.cpp.o -c /Volumes/Proj/proj/RobotProjects/librhsp/test/src/motortest.cpp",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/test/src/motortest.cpp",
   "output": "CMakeFiles/tests.dir/test/src/motortest.cpp.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/c++  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/utils.cpp.o -c /home/eric/proj/librhsp/test/src/utils.cpp",
-  "file": "/home/eric/proj/librhsp/test/src/utils.cpp",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/utils.cpp.o -c /Volumes/Proj/proj/RobotProjects/librhsp/test/src/utils.cpp",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/test/src/utils.cpp",
   "output": "CMakeFiles/tests.dir/test/src/utils.cpp.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/c++  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/basictest.cpp.o -c /home/eric/proj/librhsp/test/src/basictest.cpp",
-  "file": "/home/eric/proj/librhsp/test/src/basictest.cpp",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/basictest.cpp.o -c /Volumes/Proj/proj/RobotProjects/librhsp/test/src/basictest.cpp",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/test/src/basictest.cpp",
   "output": "CMakeFiles/tests.dir/test/src/basictest.cpp.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/c++  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/devicecontroltest.cpp.o -c /home/eric/proj/librhsp/test/src/devicecontroltest.cpp",
-  "file": "/home/eric/proj/librhsp/test/src/devicecontroltest.cpp",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/devicecontroltest.cpp.o -c /Volumes/Proj/proj/RobotProjects/librhsp/test/src/devicecontroltest.cpp",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/test/src/devicecontroltest.cpp",
   "output": "CMakeFiles/tests.dir/test/src/devicecontroltest.cpp.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/c++  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/diotest.cpp.o -c /home/eric/proj/librhsp/test/src/diotest.cpp",
-  "file": "/home/eric/proj/librhsp/test/src/diotest.cpp",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/diotest.cpp.o -c /Volumes/Proj/proj/RobotProjects/librhsp/test/src/diotest.cpp",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/test/src/diotest.cpp",
   "output": "CMakeFiles/tests.dir/test/src/diotest.cpp.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/c++  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/pwmservotest.cpp.o -c /home/eric/proj/librhsp/test/src/pwmservotest.cpp",
-  "file": "/home/eric/proj/librhsp/test/src/pwmservotest.cpp",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/pwmservotest.cpp.o -c /Volumes/Proj/proj/RobotProjects/librhsp/test/src/pwmservotest.cpp",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/test/src/pwmservotest.cpp",
   "output": "CMakeFiles/tests.dir/test/src/pwmservotest.cpp.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp",
-  "command": "/usr/bin/c++  -I/home/eric/proj/librhsp/include -I/home/eric/proj/librhsp/./test/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/i2ctest.cpp.o -c /home/eric/proj/librhsp/test/src/i2ctest.cpp",
-  "file": "/home/eric/proj/librhsp/test/src/i2ctest.cpp",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Volumes/Proj/proj/RobotProjects/librhsp/include -I/Volumes/Proj/proj/RobotProjects/librhsp/./test/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -Wall -pedantic -O2 -o CMakeFiles/tests.dir/test/src/i2ctest.cpp.o -c /Volumes/Proj/proj/RobotProjects/librhsp/test/src/i2ctest.cpp",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/test/src/i2ctest.cpp",
   "output": "CMakeFiles/tests.dir/test/src/i2ctest.cpp.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp/_deps/googletest-build/googlemock",
-  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/home/eric/proj/librhsp/_deps/googletest-src/googlemock/include -I/home/eric/proj/librhsp/_deps/googletest-src/googlemock -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++14 -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/eric/proj/librhsp/_deps/googletest-src/googlemock/src/gmock-all.cc",
-  "file": "/home/eric/proj/librhsp/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-build/googlemock",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googlemock/include -I/Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googlemock -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googlemock/src/gmock-all.cc",
   "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp/_deps/googletest-build/googlemock",
-  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /home/eric/proj/librhsp/_deps/googletest-src/googlemock/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googlemock -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++14 -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/eric/proj/librhsp/_deps/googletest-src/googlemock/src/gmock_main.cc",
-  "file": "/home/eric/proj/librhsp/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-build/googlemock",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googlemock/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googlemock -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googlemock/src/gmock_main.cc",
   "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp/_deps/googletest-build/googletest",
-  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/home/eric/proj/librhsp/_deps/googletest-src/googletest/include -I/home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++14 -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/eric/proj/librhsp/_deps/googletest-src/googletest/src/gtest-all.cc",
-  "file": "/home/eric/proj/librhsp/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-build/googletest",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -I/Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/src/gtest-all.cc",
   "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
 },
 {
-  "directory": "/home/eric/proj/librhsp/_deps/googletest-build/googletest",
-  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest/include -isystem /home/eric/proj/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++14 -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/eric/proj/librhsp/_deps/googletest-src/googletest/src/gtest_main.cc",
-  "file": "/home/eric/proj/librhsp/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "directory": "/Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-build/googletest",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/include -isystem /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fPIC  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Volumes/Proj/proj/RobotProjects/librhsp/_deps/googletest-src/googletest/src/gtest_main.cc",
   "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
 }
 ]
